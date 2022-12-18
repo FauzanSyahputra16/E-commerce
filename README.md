@@ -60,6 +60,8 @@ PHPRad adalah lingkungan pengembangan aplikasi canggih yang mampu menghasilkan a
 
 •	PHP Rad Classic
 
+•	Composer
+
 # Screenshots
 
 ![PHPrad_Login](https://user-images.githubusercontent.com/120945793/208307736-c0790941-848a-41ae-a899-12aca730f1b0.jpg)
