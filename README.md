@@ -70,5 +70,5 @@ PHPRad adalah lingkungan pengembangan aplikasi canggih yang mampu menghasilkan a
 
 # Daftar Pustaka
 
-https://github.com/FauzanSyahputra16/E-commerce
+https://github.com/Md-shefat-masum/Laravel-Ecommerce.git
 I cloned the repository for study
